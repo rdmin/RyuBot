@@ -13,7 +13,7 @@ then just type 'node bot.js' or 'ndm start' and watch it go!
 ============
 
 The bot can ->
-Search twitter the following '#SFV why ?'
+Search twitter the following '#SFV why ?' and 
 Reply to tweets that satisfy that criteria.
 
 Files -> 
